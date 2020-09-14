@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Weiwei Guo"
   avatar           : "headshot.png"
-  bio              : "NLP Manager at LinkedIn"
+  bio              : "NLP at LinkedIn"
   location         : "San Francisco Bay Area"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=uTw5OJ0AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/weiwei-guo/"
+  linkedin         : "/weiwei-guo/"
   orcid            : 
   pinterest        :
   soundcloud       :
