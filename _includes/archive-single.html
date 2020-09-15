@@ -37,6 +37,9 @@
     -->
 
     <p>
+    {% if post.tutorial %}
+      [<a href="{{ post.tutorial }}">Tutorial</a>]:
+    {% endif %}
     <a href="{{ post.paperurl }}">{{ title }}</a>
     <br>{{post.author}}
     <br>In {{post.venue}}
